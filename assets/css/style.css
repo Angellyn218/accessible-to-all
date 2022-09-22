@@ -58,6 +58,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+.hero p {
+    display:none;
+}
 
 .float-left {
     float: left;
