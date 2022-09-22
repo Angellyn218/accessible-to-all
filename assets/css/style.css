@@ -100,7 +100,7 @@ p {
     max-width: 150px;
 }
 
-article {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -109,11 +109,11 @@ article {
     color: #ffffff;
 }
 
-article img {
+.content img {
     max-height: 200px;
 }
 
-article h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
